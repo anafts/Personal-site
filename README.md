@@ -13,6 +13,8 @@
 
 O projeto é um site pessoal sobre mim, nele você descobre minhas habilidades e redes sociais para entrar em contato.
 
+O site conta com um botão de voltar ao topo. 
+
 
 <br>
 
