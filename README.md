@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#" alt="personal site"> PERSONAL SITE  </a></h1>
+<h1 align="center"><a href="#" alt="personal site"> PERSONAL SITE 💜  </a></h1>
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Personal-site?style=for-the-badge)
